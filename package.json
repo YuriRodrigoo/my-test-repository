@@ -1,0 +1,14 @@
+{
+  "name": "my-test-repository",
+  "version": "1.0.0",
+  "description": "meu repositorio teste ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuri",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.6.3"
+  }
+}
